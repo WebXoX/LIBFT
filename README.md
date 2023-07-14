@@ -1,6 +1,8 @@
 # LIBFT
 <p text-align="center"> 
-  <img src="https://github.com/WebXoX/LIBFT/assets/97600250/ac7bc15a-e834-4b2b-aebc-d3622b44a3c1" style="float:left; width:250px; height:300px">LIBFT is a project that recreates preexisting and new functions, as part of the first course at 42.
+  <img src="https://github.com/WebXoX/LIBFT/assets/97600250/ac7bc15a-e834-4b2b-aebc-d3622b44a3c1" style="float:left; width:250px; height:300px">
+  
+  LIBFT is a project that recreates preexisting and new functions, as part of the first course at 42.
 </p>
 
 ## Learning
